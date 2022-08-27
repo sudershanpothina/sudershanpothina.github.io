@@ -16,7 +16,7 @@ Golang Programming Language<br>
 Java Professional Developer<br>
 Terraform Associate<br>
 
-### Experience in
+<!-- ### Experience in
 Ansible,
 Azure, 
 Azure DevOps, 
@@ -33,7 +33,7 @@ Kubernetes,
 SonarQube, 
 Terraform, 
 TIBCO, 
-UrbanCode Deploy
+UrbanCode Deploy -->
 
 ### Education
 Post Graduate DevOps - The University of Texas at Austin<br>
