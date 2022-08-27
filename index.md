@@ -20,6 +20,7 @@ Terraform Associate<br>
 Ansible,
 Azure, 
 Azure DevOps, 
+CICD, 
 Docker, 
 Dynatrace, 
 Elastic Search,
@@ -29,8 +30,9 @@ Java,
 Jenkins, 
 Kafka, 
 Kubernetes,
-SonarQube,  
+SonarQube, 
 Terraform, 
+TIBCO, 
 UrbanCode Deploy
 
 ### Education
