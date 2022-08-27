@@ -33,7 +33,6 @@ SonarQube,
 Terraform, 
 UrbanCode Deploy
 
-
 ### Education
 Post Graduate DevOps - The University of Texas at Austin<br>
 Post Graduate Cloud Computing - Caltech<br>
