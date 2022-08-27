@@ -5,4 +5,37 @@
 
 <img src="images/cka.png?raw=true" width="100" height="100"/>   <img src="images/ckad.png?raw=true" width="100" height="100"/> <img src="images/containers.png?raw=true" width="100" height="100"/>   
 
+### Certifications
+
+Azure Administrator<br>
+Azure Fundamentals<br>
+Certified Kubernetes Administrator<br>
+Certified Kubernetes Application Developer<br>
+CyberSecurity Professional<br>
+Golang Programming Language<br>
+Java Professional Developer<br>
+Terraform Associate<br>
+
+### Experience in
+Ansible,
+Azure, 
+Azure DevOps, 
+Docker, 
+Dynatrace, 
+Elastic Search,
+Gitlab, 
+Golang, 
+Java, 
+Jenkins, 
+Kafka, 
+Kubernetes,
+SonarQube,  
+Terraform, 
+UrbanCode Deploy
+
+
 ### Education
+Post Graduate DevOps - The University of Texas at Austin<br>
+Post Graduate Cloud Computing - Caltech<br>
+Masters Mechanical and Aerospace Engineering - Oklahoma State University<br>
+
