@@ -37,7 +37,7 @@ TIBCO,
 UrbanCode Deploy -->
 
 ### Education
-Post Graduate DevOps - The University of Texas at Austin<br>
-Post Graduate Cloud Computing - Caltech<br>
+Post Graduate Cloud Computing - The University of Texas at Austin<br>
+Post Graduate DevOps - Caltech<br>
 Masters Mechanical and Aerospace Engineering - Oklahoma State University<br>
 
