@@ -7,6 +7,7 @@
 
 ### Certifications
 
+Azure Solution Architect<br>
 Azure Administrator<br>
 Azure Fundamentals<br>
 Certified Kubernetes Administrator<br>
